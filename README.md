@@ -3,7 +3,7 @@ cbmrham/cbmrham is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes
 --->
 
-# cbmrham
+# 🪐cbmrham
 
 Hello, I'm Chibiham(ちびはむ), a Full Stack web developer and a software engineer in Japan. 2023/06/01 - freelance.
 
