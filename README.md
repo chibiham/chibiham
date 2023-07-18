@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes
 
 Hello, I'm Chibiham(ちびはむ), a Full Stack web developer and a software engineer in Japan. 2023/06/01 - freelance.
 
-(https://profile.cbmrham.com)[ちびはむ]です。
+[ちびはむ](https://profile.cbmrham.com)です。
 Web開発メインの開発者です。2023/06/01からフリーランスとして活動しています。
 
 ## Languages and Tools
