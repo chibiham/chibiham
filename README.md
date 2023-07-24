@@ -21,7 +21,7 @@ Web開発メインの開発者です。2023/06/01からフリーランスとし�
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cbmrham&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cbmrham&langs_count=8&card_width=320&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cbmrham&langs_count=5&card_width=320&theme=cobalt" />
 </a>
  
 <h3 align="left">Connect with me:</h3>
