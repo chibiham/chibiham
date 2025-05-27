@@ -22,6 +22,6 @@ Web開発メインの開発者です。2023/06/01からフリーランスとし�
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cbmrham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cbmrham" height="30" width="40" /></a>
+<a href="https://x.com/chibiham_zzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cbmrham" height="30" width="40" /></a>
 </p>
 
