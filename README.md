@@ -16,6 +16,7 @@ Web開発メインの開発者です。2023/06/01からフリーランスとし�
 
 ...etc
 
+![Chibiham's GitHub stats](https://github-readme-stats-chimarus-projects.vercel.app/api?username=cbmrham&count_private=true&theme=cobalt)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-chimarus-projects.vercel.app/api?username=cbmrham&count_private=true&theme=cobalt" />
