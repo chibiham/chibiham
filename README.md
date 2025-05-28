@@ -16,9 +16,8 @@ Web開発メインの開発者です。2023/06/01からフリーランスとし�
 
 ...etc
 
+![Top Langs](https://github-readme-stats-chimarus-projects.vercel.app/api/top-langs?username=cbmrham&count_private=true&theme=cobalt&langs_count=4&card_width=320)
 ![Chibiham's GitHub stats](https://github-readme-stats-chimarus-projects.vercel.app/api?username=cbmrham&count_private=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats-chimarus-projects.vercel.app/api/top-langs?username=cbmrham&count_private=true&theme=cobalt&langs_count=5&card_width=320)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
