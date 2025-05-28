@@ -3,7 +3,7 @@ cbmrham/cbmrham is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes
 --->
 
-# <img align="center" src="https://www.cbmrham.com/static/icon.svg" alt="ham" height="30" width="40" /> Chibiham
+<h1><a href="#chibiham" target="blank"><img align="center" src="https://www.cbmrham.com/static/icon.svg" alt="ham" height="30" width="40" /></a>Chibiham</h1>
 
 Hello, I'm Chibiham(ちびはむ), a Full Stack web developer and a software engineer in Japan. 2023/06/01 - freelance.
 
