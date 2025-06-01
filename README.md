@@ -3,11 +3,11 @@ cbmrham/cbmrham is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes
 --->
 
-<h1><a href="#chibiham" target="blank"><img align="center" src="https://www.cbmrham.com/static/icon.svg" alt="ham" height="30" width="40" /></a>Chibiham</h1>
+<h1><a href="#chibiham" target="blank"><img align="center" src="https://www.chibiham.com/static/icon.svg" alt="ham" height="30" width="40" /></a>Chibiham</h1>
 
 Hello, I'm Chibiham(ちびはむ), a Full Stack web developer and a software engineer in Japan. 2023/06/01 - freelance.
 
-[ちびはむ](https://cbmrham.com/profile)です。
+[ちびはむ](https://chibiham.com/profile)です。
 Web開発メインの開発者です。2023/06/01からフリーランスとして活動しています。
 
 ## Languages and Tools
@@ -25,7 +25,7 @@ Web開発メインの開発者です。2023/06/01からフリーランスとし�
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/chibiham_zzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" /></a>
-  <a href="https://www.cbmrham.com" target="blank"><img align="center" src="https://www.cbmrham.com/static/icon.svg" alt="ham" height="30" width="40" /></a>
+  <a href="https://www.chibiham.com" target="blank"><img align="center" src="https://www.chibiham.com/static/icon.svg" alt="ham" height="30" width="40" /></a>
 </p>
 
 
