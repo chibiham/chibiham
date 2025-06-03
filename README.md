@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes
 
 <h1><a href="#chibiham" target="blank"><img align="center" src="https://www.chibiham.com/static/icon.svg" alt="ham" height="30" width="40" /></a>Chibiham</h1>
 
-Hello, I'm Chibiham(ちびはむ), a Full Stack web developer and a software engineer in Japan. 2023/06/01 - freelance.
+Hello, I'm [Chibiham](https://chibiham.com/profile), a Full Stack web developer and a software engineer in Japan. 2023/06/01 - freelance.
 
 [ちびはむ](https://chibiham.com/profile)です。
 Web開発メインの開発者です。2023/06/01からフリーランスとして活動しています。
