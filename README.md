@@ -18,8 +18,8 @@ Web開発メインの開発者です。2023/06/01からフリーランスとし�
 
 
 <p align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats-chimarus-projects.vercel.app/api/top-langs?username=cbmrham&count_private=true&theme=cobalt&layout=donut" />
-  <img alt="github stats" height="180px" src="https://github-readme-stats-chimarus-projects.vercel.app/api?username=cbmrham&count_private=true&show_icons=true&theme=cobalt" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats-chimarus-projects.vercel.app/api/top-langs?username=chibiham&count_private=true&theme=cobalt&layout=donut" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats-chimarus-projects.vercel.app/api?username=chibiham&count_private=true&show_icons=true&theme=cobalt" />
 </p>
  
 <h3 align="left">Connect with me:</h3>
